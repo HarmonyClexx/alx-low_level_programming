@@ -10,3 +10,4 @@ int main(void)
 
 	write(2, str, 60);
 	return (1);
+}
