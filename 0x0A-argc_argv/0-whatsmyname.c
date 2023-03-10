@@ -21,4 +21,3 @@ int main(int argc, char *argv[])
 	printf("%s\n", program_name);
 	return 0;
 }
-
